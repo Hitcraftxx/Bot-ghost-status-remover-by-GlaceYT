@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Hitcraft","hitcraft.holy.gg"];
 
 
 let currentIndex = 0;
